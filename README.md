@@ -1,2 +1,2 @@
 # Ulete
-A react app fro student athletes 
+A react app for student athletes 
